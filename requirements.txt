@@ -1,0 +1,9 @@
+openpyxl
+openai
+pandas
+plotly
+google-genai
+anthropic
+SQLAlchemy
+streamlit
+reportlab
