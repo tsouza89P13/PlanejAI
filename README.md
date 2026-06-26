@@ -1,6 +1,6 @@
 # PlanejAI
 
-Aplicação local para Planejamento e Controle da Manutenção (PCM), com cadastro de equipamentos e planos, importação via Excel, mapa de planejamento de 52 semanas com nivelamento e balanceamento automáticos, capacidade de equipes, execução de ocorrências, dashboard executivo, relatórios em PDF e assistente IA com consultas locais ao banco.
+Aplicação local para Planejamento e Controle da Manutenção (PCM), com cadastro de equipamentos e planos, importação via Excel, mapa de planejamento de 52 semanas com nivelamento e balanceamento automáticos, capacidade de equipes, execução de ocorrências, dashboard executivo, relatórios em PDF e assistente IA com consultas locais ao banco. Criado para desenvolver minhas competências no desenvolvimento de soluções industriais pelo olhar da Engenharia de Manutenção e Confiabilidade. 
 
 
 ![PlanejAI](imagens/fst.png)
