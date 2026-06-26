@@ -7,6 +7,12 @@ Aplicação local para Planejamento e Controle da Manutenção (PCM), com cadast
 
 ---
 
+⚠️ Aviso
+
+Esta aplicação foi desenvolvida com caráter educativo e experimental. Não se trata de um CMMS ou ERP. O objetivo é apoiar o aprendizado e a prática de conceitos de PCM, especificamente o dimensionamento de equipes e o mapa de planejamento anual de 52 semanas. Existem passos da metodologia de MCC que foram simplificadas para alcançar o objetivo principal. 
+
+---
+
 ## Tecnologias utilizadas
 
 | Tecnologia | Finalidade |
